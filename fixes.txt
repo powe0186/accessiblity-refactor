@@ -1,0 +1,10 @@
+For better semantic markup:
+
+changed the <div> with id="header" to a <header>.
+changed the <div> with class="benefits" to an <aside>
+changed the <div> with class="content" to a <main>
+changed the footer div to be a <footer>
+
+Images:
+Fixed links for images and added alt="" on all of them for accessibility.
+
