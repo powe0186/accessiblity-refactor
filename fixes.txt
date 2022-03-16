@@ -10,3 +10,5 @@ Fixed links for images and added alt="" on all of them for accessibility.
 
 fixed first in-page link in the header by adding an id attribute.
 
+Removed redundancies in css for the <aside> bar by creating one shared class.
+Removed redundancies in <main> by making one class for the three sections.
