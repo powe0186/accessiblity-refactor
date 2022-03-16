@@ -138,9 +138,9 @@ footer h2 {
     }
 
     header div ul li {
-    display: block;
-    margin-left: 25px;
-    margin-top: 25px;
+        display: block;
+        margin-left: 25px;
+        margin-top: 25px;
     }
 }
 
