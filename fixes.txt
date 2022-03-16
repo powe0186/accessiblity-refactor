@@ -8,3 +8,5 @@ changed the footer div to be a <footer>
 Images:
 Fixed links for images and added alt="" on all of them for accessibility.
 
+fixed first in-page link in the header by adding an id attribute.
+
