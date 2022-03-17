@@ -41,6 +41,23 @@ header div ul li {
     margin-left: 25px;
 }
 
+
+#dropdown {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: none;
+}
+
+#dropdown ul {
+    list-style-type: none;
+    background-color: #2a607c;
+}
+
+#dropdown ul li {
+    text-align: center;
+    margin-top: 15px;
+    color: #ffffff;
+}
+
 main {
     width: 75%;
     display: inline-block;
@@ -242,19 +259,14 @@ footer h2 {
 }
 
 @media screen and (max-width: 1030px) {
-   
-    header {
-        height: 200px;
-    }
 
     header div {
-        display: block;
+        display: none;
     }
 
-    header div ul li {
-        display: block;
-        margin-left: 25px;
-        margin-top: 25px;
+    #dropdown {
+        display: inline;
     }
+
 }
 
